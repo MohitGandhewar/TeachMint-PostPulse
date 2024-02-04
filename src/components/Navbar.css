@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #f18383; /* Background color for the Navbar */
+  color: #fff; /* Text color */
+  padding: 10px 20px; /* Padding around the Navbar content */
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo {
+  margin-right: 10px; /* Margin between the logo and the title */
+}
+
+.navbar-logo img {
+  width: 10rem; /* Adjust the width of the logo as needed */
+  height: 3rem; /* Adjust the height of the logo as needed */
+}
+
+.navbar-title h1 {
+  margin: 0; /* Remove any default margin */
+}
+
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  background-color: #f0f0f0; /* Background color for the entire page */
+}
